@@ -88,3 +88,29 @@ Diferentes formas de instanciar classes.
 Noções de encapsulamento.
 Diferentes formas de criar uma string.
 
+### Cachorro
+Pacote Cachorro.  
+Interações entre objetos.  
+Noções de associação entre classes e de ligação entre objetos.  
+Noções de associação, agregação e composição.
+
+### Pet
+Pacote Pet 
+Interações entre objetos.  
+Noções de associação entre classes e de ligação entre objetos.  
+Noções de associação, agregação e composição.  
+Coleção de objetos: listas e vetores.
+
+### ListaCores.java
+Interações entre objetos.  
+Noções de associação entre classes e de ligação entre objetos.  
+Noções de associação, agregação e composição.  
+Lista de objetos com ArrayList.
+
+### ReceitaFederal
+Pacote ReceitaFederal.
+Interações entre objetos.  
+Noções de associação entre classes e ligação entre objetos.  
+Noções de associação, agregação e composição.  
+Lista de objetos com ArrayList.
+
