@@ -2,6 +2,7 @@
 - Universidade: PUC-PR
 - Curso: Gestão de Tecnologia da Informação
 - Disciplina: Fundamentos da Programação Orientada a Objetos
+- Arquivos com código-fonte: pasta [src](https://github.com/johnny0408/pucpr-fundamentos-poo/tree/main/src).
 
 ### HelloWorld.java
 Primeiros passos em Java.    
